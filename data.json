@@ -1,0 +1,81 @@
+[
+    {
+        "id":1,
+        "name":"dress",
+        "image":"1.jpg",
+        "price":200
+       },
+       {
+           "id":2,
+           "name":"bejama",
+           "image":"2.jpg",
+           "price":250
+          },
+   
+          {
+           "id":3,
+           "name":"t shirt",
+           "image":"3.jpg",
+           "price":400
+          },
+   
+          {
+           "id":4,
+           "name":"baby suit",
+           "image":"4.jpg",
+           "price":200
+          },
+   
+          {
+           "id":5,
+           "name":"bantalon",
+           "image":"5.jpg",
+           "price":300
+          },
+          {
+           "id":6,
+           "name":"Abaya",
+           "image":"6.jpg",
+           "price":280
+          },
+          {
+           "id":7,
+           "name":"Abaya",
+           "image":"7.jpg",
+           "price":380
+          },
+          {
+           "id":8,
+           "name":"Abaya",
+           "image":"8.jpg",
+           "price":210
+          },
+          {
+           "id":9,
+           "name":"clock",
+           "image":"9.jpg",
+           "price":290
+          },
+          {
+           "id":10,
+           "name":"clock",
+           "image":"10.jpg",
+           "price":480
+          },
+          {
+           "id":11,
+           "name":"clock",
+           "image":"11.jpg",
+           "price":270
+          },
+          {
+           "id":12,
+           "name":"dress",
+           "image":"12.jpg",
+           "price":450
+          }
+   
+       
+    
+]
+    
