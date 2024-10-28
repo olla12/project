@@ -37,11 +37,16 @@ fetch('data.json')
 
 
          }
-                     else{let newDiv=document.createElement("div");
-                                 newDiv.innerHTML="not found";}
+                   
          
       }
+                  
+       if(newDiv.innerHTML=="")
+       {
+          newDiv.innerHTML=`<h3 class="text-danger">not found!<h3>`;
 
+          content.appendChild(newDiv);
+        }
       });
    }        
 
