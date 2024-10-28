@@ -33,7 +33,7 @@ fetch('data.json')
             <h3><span>product price:</span><span>${data[i].price}<span><h3>
             <h3>product image:</h3><img src="images/${data[i].image}"/>`;
            content.appendChild(newDiv);
-                     continue;
+                     
 
 
          }
