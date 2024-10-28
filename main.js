@@ -37,7 +37,8 @@ fetch('data.json')
 
 
          }
-                     else{newDiv.innerHTML="not found"}
+                     else{let newDiv=document.createElement("div");
+                                 newDiv.innerHTML="not found";}
          
       }
 
